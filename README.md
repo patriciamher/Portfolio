@@ -1,4 +1,6 @@
-I used a template throught HTML 5 to create my portfolio. Take a look at it!
+My Portfolio:
+
+I used a template through HTML 5 to create my portfolio. Take a look at it!
 
 Link to Project: https://patricia-hernandez.netlify.app/
 
